@@ -67,7 +67,7 @@ A comprehensive referral system with real-time earnings tracking, built with Rea
 ### Prerequisites
 - Node.js (v16 or higher)
 - MongoDB (local or cloud instance)
-- npm or yarn
+- npm 
 
 ### Backend Setup
 
@@ -316,11 +316,7 @@ NODE_ENV=production
 
 ## 🔒 Security Considerations
 
-### Current Implementation
-- Input validation on all endpoints
-- MongoDB injection prevention
-- CORS configuration
-- Error handling without data exposure
+
 
 ### Production Recommendations
 - JWT-based authentication
