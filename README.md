@@ -266,8 +266,6 @@ NODE_ENV=production
 ```
 
 ### Deployment Platforms
-- **Backend**: Heroku, DigitalOcean, AWS
-- **Frontend**: Netlify, Vercel
 - **Database**: MongoDB Atlas
 
 ## 🔧 Configuration
